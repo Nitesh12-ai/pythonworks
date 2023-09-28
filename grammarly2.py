@@ -42,7 +42,7 @@ if __name__ == "__main__":
 	root.geometry("400x150")
 
 	# set the name of tkinter GUI window
-	root.title("Grammarily 2.0")
+	root.title("Grammarily .0")
 
 	# Create Welcome to Spell Corrector Application: label
 	headlabel = Label(root, text='Welcome to Spell Corrector Application',
